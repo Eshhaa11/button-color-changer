@@ -12,7 +12,7 @@ function Button () {
         {name: "peach", color: "#FFDAB9"},
         {name: "lavender", color: "#E6E6FA"},
         {name: "mint", color: "#98FF98"},
-        {name: "green", color: "#B4E7CE"},
+        {name: "coral", color: " #FFB3AB"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
