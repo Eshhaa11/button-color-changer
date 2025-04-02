@@ -1,9 +1,11 @@
 import React from "react";
-import Button from "./Components/button."
+import Button from "./Components/Button";
+import "./Components/Button"
 
 function App() {
   return (
     <div>
+      <Button />
     </div>
   );
 }
