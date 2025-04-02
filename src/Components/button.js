@@ -33,7 +33,7 @@ function Button () {
         {name: "cherry blossom", color: "#F2C1D1"},
         {name: "tangerine", color: "#F7B89C"},
         {name: "orchid", color: "#DAA6D4"},
-        {name: "green", color: "#B4E7CE"},
+        {name: "watermelon", color: "#F9A7B0"},
 
     ]
     return (
