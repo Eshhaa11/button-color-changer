@@ -39,6 +39,7 @@ function Button () {
     ]
     return (
         <div className="container" style={{ backgroundColor: pastel }}>
+            <h1>Choose a color you prefer</h1>
 
         </div>
     )
