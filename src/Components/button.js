@@ -9,7 +9,7 @@ function Button () {
         {name: "blue", color:  "#AEC6CF"},
         {name: "yellow", color: "#FDFD96"},
         {name: "purple", color: "#77DD77"},
-        {name: "green", color: "#B4E7CE"},
+        {name: "peach", color: "#FFDAB9"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
