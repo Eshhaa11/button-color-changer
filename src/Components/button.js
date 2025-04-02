@@ -26,7 +26,7 @@ function Button () {
         {name: "salmon", color: "#FF9999"},
         {name: "skyblue", color: "#80C6E0"},
         {name: "grapefruit", color: "#F79C42"},
-        {name: "green", color: "#B4E7CE"},
+        {name: "sand", color: "#D9B88C"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
