@@ -38,7 +38,7 @@ function Button () {
 
     ]
     return (
-        <div>
+        <div className="container" style={{ backgroundColor: pastel }}>
 
         </div>
     )
