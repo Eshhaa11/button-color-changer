@@ -2,8 +2,9 @@ import { useState } from "react";
 import './Button.css';
 
 function Button () {
+    const [pastel, setPastel] = useState("white");
     
-    const pastel = [
+    const color = [
         {name: "pink" , color: "#FFD1DC"},
         {name: "green", color: "#B4E7CE"},
         {name: "blue", color:  "#AEC6CF"},
