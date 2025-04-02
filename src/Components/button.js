@@ -20,7 +20,7 @@ function Button () {
         {name: "rose", color: "#FFCCCB"},
         {name: "periwinkle", color: "CCCCFF"},
         {name: "lilac", color: "#B9AEDC"},
-        {name: "green", color: "#B4E7CE"},
+        {name: "mintgreen", color: "#A8E6CF"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
