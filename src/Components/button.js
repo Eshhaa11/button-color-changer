@@ -31,7 +31,7 @@ function Button () {
         {name: "cotton candy", color: "#B4E7CE"},
         {name: "teal", color: "#A1D6D1"},
         {name: "cherry blossom", color: "#F2C1D1"},
-        {name: "green", color: "#B4E7CE"},
+        {name: "tangerine", color: "#F7B89C"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
 
