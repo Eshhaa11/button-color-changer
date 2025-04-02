@@ -18,7 +18,7 @@ function Button () {
         {name: "lemon", color: "#F1E8B8"},
         {name: "grey", color: "#BFBFBF"},
         {name: "rose", color: "#FFCCCB"},
-        {name: "periwinkle", color: "#B4E7CE"},
+        {name: "periwinkle", color: "CCCCFF"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
         {name: "green", color: "#B4E7CE"},
