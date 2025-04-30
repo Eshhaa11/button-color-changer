@@ -21,7 +21,8 @@ An engaging and colorful React application that lets users change the background
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo
+
 
 1. **Clone the repository:**
    git clone https://github.com/your-username/react-counter-app.git
